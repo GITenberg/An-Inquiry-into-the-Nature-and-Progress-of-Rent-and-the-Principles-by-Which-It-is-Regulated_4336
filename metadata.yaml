@@ -1,5 +1,8 @@
 _repo: An-Inquiry-into-the-Nature-and-Progress-of-Rent-and-the-Principles-by-Which-It-is-Regulated_4336
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Malthus, T. R. (Thomas Robert)
@@ -14,6 +17,8 @@ description: Malthus published a variety of pamphlets and tracts on economics in
   in 1815, he states 'It may be laid down then as a general truth, that rents naturally
   rise as the difference between the price of produce and the cost of the instruments
   of production increases'.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4336#An-Inquiry-into-the-Nature-and-Progress-of-Rent-and-the-Principles-by-Which-It-is-Regulated
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
